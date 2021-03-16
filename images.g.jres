@@ -1,0 +1,9 @@
+{
+    "image1": "hwQQABAAAAAzMzMzMzMzMxMRERERERExEzMzMzMzMzETMzMzMzMzMRMzExERMTMxEzMTMzEzMzETMxMzMTMzMRMzMxEzMzMxEzMzMzMzMzETMzMxMzEzMRMzExERMTMxEzMzMzMxMzETMzMzMzMzMRMzMzMzMzMxExERERERETEzMzMzMzMzMw==",
+    "image2": "hwQQABAAAACqqqqqqqqqqrq7u7u7u7uruqqqqqqqqqu6qqqqqqqqq7q6qqqquqqrurqqu6qrqqu6qquqqquqq7qqqqqqq6qruqqqqqqrqqu6qquqqquqq7q6qruqq6qrurqqqqq6qqu6qqqqqqqqq7qqqqqqqqqruru7u7u7u6uqqqqqqqqqqg==",
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
